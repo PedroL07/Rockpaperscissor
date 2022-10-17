@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Pedro Leonardo
 #### Welcome to my Rock-paper-scissors app
-https://pedroleonardo-todo-list.netlify.app/
+https://rock-paper-scissors-pl.netlify.app/
 
 ![](rps.jpg)
 
